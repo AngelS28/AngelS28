@@ -16,6 +16,7 @@
  The group's name meant "pretty isn't everything" and symbolized that they are a team that encompasses not
  only beauty,but also great talent. 
  
- ## Logo 
+ ## Logo
+ 
  
  
