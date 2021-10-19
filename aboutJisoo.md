@@ -33,6 +33,52 @@ Jisoo did not only performed with BlackPink but she also performed with another 
 * Jisoo had won _Weibo Starlight_ Awards in the year 2021.
 * Jisoo was enlisted in _The Fact Music_ Awards in 2021. 
 
-[Homepage](
+
+## Code
+```
+import turtle
+screen=turtle.Screen()
+
+screen.bgcolor("yellow")
+
+y = turtle.Turtle()
+
+
+def drawtheSun(t, length, radius):
+      
+    for i in range(4):
+        t.penup()
+        t.forward(radius)
+        t.pendown()
+        t.forward(length)
+        t.penup()
+        t.backward(length + radius)
+        t.left(90)
+  
+  
+
+y.penup()
+y.goto(85, 110)
+y.fillcolor("red")
+y.pendown()
+y.begin_fill()
+y.circle(45)
+y.end_fill()
+  
+
+y.penup()
+y.goto(85, 169)
+y.pendown()
+drawFourRays(y, 85, 54)
+y.right(45)
+drawFourRays(y, 85, 54)
+y.left(45)
+
+
+turtle.done()
+```
+
+
+[Homepage](https://github.com/AngelS28/AngelS28/blob/main/introLengendaryGirlGroup.md)
 
   
