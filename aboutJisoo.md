@@ -27,7 +27,7 @@ Jisoo had collaborated with other Korean aritists on the stage. She was an [Inki
 
 ## Awards and Nominations
 ![Jisoo](https://pbs.twimg.com/media/EM-Zk2UUYAAttu4.jpg) 
-* Ranked 78th on _TC Candler_ "The 100 Most Beautiful Faces of 2019".
+* Jisoo ranked 78th on _TC Candler_ "The 100 Most Beautiful Faces of 2019".
 * Jisoo had won _Weibo Starlight_ Awards in the year 2021.
 * Jisoo was enlisted in _The Fact Music_ Awards in 2021. 
 
