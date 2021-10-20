@@ -13,8 +13,7 @@
  of the originally planned nine and revealed its offical name as **BLACKPINK**.
  
  ### What is "BLACKPINK?" 
- The group's name meant "pretty isn't everything" and symbolized that they are a team that encompasses not
- only beauty,but also great talent. 
+ The group's name meant "pretty isn't everything" and symbolized that they are a team that encompasses not only beauty,but also great talent. 
  
  ## Logo 
  
@@ -43,42 +42,37 @@ In 2021,Blackpink was awarded their sixth Guinness World Record for being thte m
 
 
 
-## Code:
+## Code
+
 ```
-def drawtheSun(t, length, radius):
-      
-    for i in range(4):
-        t.penup()
-        t.forward(radius)
-        t.pendown()
-        t.forward(length)
-        t.penup()
-        t.backward(length + radius)
-        t.left(90)
-  
-  
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
 
-y.penup()
-y.goto(85, 110)
-y.fillcolor("red")
-y.pendown()
-y.begin_fill()
-y.circle(45)
-y.end_fill()
-  
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 0; i < 100; i++) {
+		displayHTML += "<p>" + i + "</p>";
+	}
+	display.innerHTML = displayHTML;
+}
 
-y.penup()
-y.goto(85, 169)
-y.pendown()
-drawFourRays(y, 85, 54)
-y.right(45)
-drawFourRays(y, 85, 54)
-y.left(45)
+</script>
 
-  
+</head>
 
-turtle.done()
+<body onload="fizzbuzz()">
+<div id="display">
 
+</div>
+</body>
+
+</html>
+ 
 ```
 [Homepage](https://github.com/AngelS28/AngelS28/blob/main/introLengendaryGirlGroup.md)
 
