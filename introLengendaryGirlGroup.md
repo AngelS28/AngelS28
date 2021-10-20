@@ -21,13 +21,13 @@
  
  ## Memebers In The Group 
  There're four members in the group: 
-* Jisoo(지수)- Oldest,vocalist
+* [Jisoo(지수)](https://github.com/AngelS28/AngelS28/blob/main/aboutJisoo.md)- Oldest,vocalist
 
-* Jennie(제니) - Rapper,vocalist
+* [Jennie(제니)](https://github.com/AngelS28/AngelS28/blob/main/aboutJennie.md) - Rapper,vocalist
 
-* Rosé(로제) - Main vocal
+* [Rosé(로제)](https://github.com/AngelS28/AngelS28/blob/main/about%20Ros%C3%A9.md) - Main vocal
 
-* Lisa(리사) - Youngest,main dancer,rapper 
+* [Lisa(리사)](https://github.com/AngelS28/AngelS28/blob/main/aboutLisa.md) - Youngest,main dancer,rapper 
 
 ### Songs and Albums 
 
