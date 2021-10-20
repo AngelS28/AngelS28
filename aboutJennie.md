@@ -6,7 +6,7 @@
 
 **Age**:25
 
-**Place-to-born**: Cheongdam-dong, Seoul, South Korea
+**Birth Place**: Cheongdam-dong, Seoul, South Korea
 
 **Occupation**: Singer,model
 
@@ -38,7 +38,7 @@ On November 12,2018,Jennie debuted as a soloist with the song "[SOLO](https://ww
 * She is the first kpop idol to be in cover of Korea's Top 6 magazines,such as **Elle**, **Comsmopolitan**,**Harper's Bazaar**,**Vogue Korea**,and **Marie Claire**. 
 
 
-## Code 
+### Code 
 ```<!DOCTYPE html>
 <html>
 <head>
