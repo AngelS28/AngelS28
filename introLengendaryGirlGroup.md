@@ -74,5 +74,5 @@ function fizzbuzz() {
 </html>
  
 ```
-[Back to homepage](https://github.com/AngelS28/AngelS28/edit/main/README.md)
+[Back to homepage](https://github.com/AngelS28/AngelS28)
 
