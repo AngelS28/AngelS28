@@ -34,46 +34,34 @@ Jisoo did not only performed with BlackPink but she also performed with another 
 
 ## Code
 ```
-import turtle
-screen=turtle.Screen()
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fizz Buzz</title>
+<script>
 
-screen.bgcolor("yellow")
+function fizzbuzz() {
+	var display = document.getElementById('display');
+	var displayHTML = "";
+	for (i = 0; i < 100; i++) {
+		displayHTML += "<p>" + i + "</p>";
+	}
+	display.innerHTML = displayHTML;
+}
 
-y = turtle.Turtle()
+</script>
 
+</head>
 
-def drawtheSun(t, length, radius):
-      
-    for i in range(4):
-        t.penup()
-        t.forward(radius)
-        t.pendown()
-        t.forward(length)
-        t.penup()
-        t.backward(length + radius)
-        t.left(90)
-  
-  
+<body onload="fizzbuzz()">
+<div id="display">
 
-y.penup()
-y.goto(85, 110)
-y.fillcolor("red")
-y.pendown()
-y.begin_fill()
-y.circle(45)
-y.end_fill()
-  
+</div>
+</body>
 
-y.penup()
-y.goto(85, 169)
-y.pendown()
-drawFourRays(y, 85, 54)
-y.right(45)
-drawFourRays(y, 85, 54)
-y.left(45)
-
-
-turtle.done()
+</html>
+    
 ```
 
 
