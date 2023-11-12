@@ -39,16 +39,7 @@ On November 12,2018,Jennie debuted as a soloist with the song "[SOLO](https://ww
 
 
 
-
-
-
-
-
-
-
-
-
-
+##
 [Back to menu](https://github.com/AngelS28/AngelS28/blob/main/README.md)
 
 
