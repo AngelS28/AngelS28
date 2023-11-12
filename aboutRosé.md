@@ -50,7 +50,9 @@ by a Korean female soloist in the US.The song also debuted and peaked at number 
 * Rosé ranked 66th on _TC Candler_ "The 100 Most Beautiful Faces of 2019".
 
 
-
+##
+##
+##
 [Back to menu](https://github.com/AngelS28/AngelS28/blob/main/README.md)
 
 
