@@ -40,39 +40,6 @@ In 2021,Blackpink was awarded their sixth Guinness World Record for being thte m
 
 
 
-
-
-## Code
-
-```
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
-
-function fizzbuzz() {
-	var display = document.getElementById('display');
-	var displayHTML = "";
-	for (i = 0; i < 100; i++) {
-		displayHTML += "<p>" + i + "</p>";
-	}
-	display.innerHTML = displayHTML;
-}
-
-</script>
-
-</head>
-
-<body onload="fizzbuzz()">
-<div id="display">
-
-</div>
-</body>
-
-</html>
- 
-```
-[Back to menu](https://github.com/AngelS28/AngelS28/blob/main/menu_Page.md)
+##
+[Back to menu](https://github.com/AngelS28/AngelS28/blob/main/README.md)
 
