@@ -31,8 +31,6 @@ Jisoo had collaborated with other Korean aritists on the stage. She was an [Inki
 * Jisoo had won _Weibo Starlight_ Awards in the year 2021.
 * Jisoo was enlisted in _The Fact Music_ Awards in 2021. 
 
-
-
-
+##
 [Back to menu](https://github.com/AngelS28/AngelS28/blob/main/README.md)
   
