@@ -53,35 +53,7 @@ The title song [Lalisa](https://www.youtube.com/watch?v=awkkyBH2zEo) had recevie
 * Lisa won the Inspiratonal Role Modal for Youth of Thailand Master Youth Club in 2021.
 * Lisa won both the Most Popular Person of the Year of The Stanard in year 2018 and 2019.
 
-### Code
-```
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Fizz Buzz</title>
-<script>
 
-function fizzbuzz() {
-	var display = document.getElementById('display');
-	var displayHTML = "";
-	for (i = 0; i < 100; i++) {
-		displayHTML += "<p>" + i + "</p>";
-	}
-	display.innerHTML = displayHTML;
-}
 
-</script>
 
-</head>
-
-<body onload="fizzbuzz()">
-<div id="display">
-
-</div>
-</body>
-
-</html>
-```
-
-[Back to menu](https://github.com/AngelS28/AngelS28/blob/main/menu_Page.md)
+[Back to menu](https://github.com/AngelS28/AngelS28/blob/main/README.md)
